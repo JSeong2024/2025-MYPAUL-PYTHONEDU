@@ -1,5 +1,7 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=기초%20과정%20강의%20노트&fontSize=40&animation=twinkling"/>
+  <a href="https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/Main/Basic/Lecture">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=기초%20과정%20강의%20노트&fontSize=40&animation=twinkling"/>
+  </a>
 </p>
 
 
