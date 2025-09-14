@@ -28,11 +28,11 @@
 
 
 <p align='center'>
-   <a href="https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main/Main/Basic">
+   <a href="https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/Main/Basic">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20기초과정%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Python%20%27Basic%27%20Course&descAlign=60&descAlignY=50"/>
    </a>
    
-   <a href="https://github.com/lllilililli/2025-MYPAUL-PYTHONEDU/tree/main/Main/Basic">
+   <a href="https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/Main/Intermediate">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20중급과정%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Python%20%27Intermediate%27%20Course&descAlign=60&descAlignY=50"/>
    </a>
 </p>
