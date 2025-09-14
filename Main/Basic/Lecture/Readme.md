@@ -1,3 +1,8 @@
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=Basic%20Course%20Lecture%20Note&fontSize=40&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&text=기초%20과정%20강의%20노트&fontSize=40&animation=twinkling"/>
+</p>
+
+
+<p align="center">
+  <b>Basic Course Lecture Note</b>
 </p>
