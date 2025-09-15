@@ -15,8 +15,11 @@
 </p>
 
 ---
-# 📑 Notice
-☑️ **Assignment**
+
+# 📢 Notice
+📝 **Assignment** (과제)
+
+📑 **Survey** (설문 조사)
 
 ---
 
