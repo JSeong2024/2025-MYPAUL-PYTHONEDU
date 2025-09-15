@@ -37,7 +37,8 @@
 ### 파이썬 기초
 - 2025.09.22.
   - [Week 00](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/blob/main/PYTHON-2025-09/Intermediate/Lecture/Week-01/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95%5D%20Week%2000_OT.pptx)
-  - Week 01
+  - [Week 01-1](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/blob/main/PYTHON-2025-09/Intermediate/Lecture/Week-01/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95%5D%20Week%2001_1_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC%20%ED%8C%8C%EC%9D%B4%EC%8D%AC.pptx)
+  - Weej 01-2
 - 2025.09.29.
   - Week 02-1
   - Week 02-2
