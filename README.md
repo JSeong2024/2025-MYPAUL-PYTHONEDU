@@ -17,14 +17,14 @@
    </a>
 </p>
 
-# 강의 계획서
+# 📄 강의 계획서
 ☑️  **기초 과정**
    - [**`Plan_Basic.pdf`**](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/blob/main/PYTHON-2025-09/Plan_Basic.pdf)
 
 ☑️  **중급 과정**
    - [**`Plan_Intermediate.pdf`**](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/blob/main/PYTHON-2025-09/Plan_Intermediate.pdf)
 
-# Go to Class
+# 🚀 Go to Class
 
 
 <p align='center'>
