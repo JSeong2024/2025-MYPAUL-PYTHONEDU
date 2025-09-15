@@ -9,6 +9,9 @@
   <a href="https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/PYTHON-2025-09/Basic">
     <img src="https://img.shields.io/badge/Basic-81DAD6?&style=for-the-badge&&logoColor=white"/>
   </a>
+  <a href="https://www.contestkorea.com/">
+    <img src="https://img.shields.io/badge/공모전%20정보-F3981E?&style=for-the-badge&&logoColor=white"/>
+  </a>
 </p>
 
 ---
