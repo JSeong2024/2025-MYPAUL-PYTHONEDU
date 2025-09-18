@@ -6,5 +6,5 @@
 
 
 <p align="center">
-  <b>Basic Course Lecture Note</b>
+  <b>Basic Class Lecture Note</b>
 </p>
