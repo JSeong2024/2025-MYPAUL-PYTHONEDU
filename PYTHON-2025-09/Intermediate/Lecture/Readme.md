@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <b>Intermediate Course Lecture Note</b>
+  <b>Intermediate Class Lecture Note</b>
 </p>
