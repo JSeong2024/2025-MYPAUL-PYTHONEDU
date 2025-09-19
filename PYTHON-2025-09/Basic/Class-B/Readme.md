@@ -16,9 +16,9 @@
 
 ---
 # 📢 Notice
-📝 **Assignment** (과제)
+📝 [**공지사항** (클릭시 이동)](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/PYTHON-2025-09/Basic/Class-B/Notice)
 
-📑 **Survey** (설문 조사)
+📊 **설문조사** (클릭시 이동)
 
 ---
 
