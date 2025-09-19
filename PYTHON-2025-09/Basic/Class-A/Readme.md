@@ -19,7 +19,7 @@
 📝 [**공지사항** (클릭시 이동)](https://github.com/JSeong2024/2025-MYPAUL-PYTHONEDU/tree/main/PYTHON-2025-09/Basic/Class-A/Notice)
  - 1주차 내용 정리본을 업로드 하였습니다. (2025.09.20. 2:58)
 
-📑 **설문조사** (클릭시 이동)
+📊 **설문조사** (클릭시 이동)
 
 ---
 
