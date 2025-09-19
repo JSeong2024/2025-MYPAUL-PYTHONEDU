@@ -15,7 +15,7 @@
 # 📢 Notice
 📝 **Assignment** (과제)
 
-📑 **Survey** (설문 조사)
+📑 **[Survey](https://docs.google.com/forms/d/e/1FAIpQLSfQtLNoooxxDSEGX20etSPwPbmS2S9pvZAoJRcA5BduL6vFxw/viewform?usp=header)** (설문 조사)
 
 ---
 
