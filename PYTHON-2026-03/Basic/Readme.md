@@ -19,7 +19,7 @@
  - 수업 후 설문조사: x
 
 🎁 [**과제**](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/tree/main/PYTHON-2026-03/Basic/Assignment)
- - 7주차 과제(교재 연습문제)
+ - x
 
 ---
 
@@ -50,7 +50,7 @@
 - 2026.05.23.
   - [Week 07](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/blob/main/PYTHON-2026-03/Basic/Lecture/Week-07/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95%5D%20Week%2007_1_%ED%95%A8%EC%88%98.pptx)
 - 2026.06.06.
-  - Week 08
+  - [Week 08](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/blob/main/PYTHON-2026-03/Basic/Lecture/Week-08/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95%5D%20Week%2008_1_%EC%BD%94%EB%94%A9%20%EC%8B%A4%EC%8A%B5.pptx)
 - 2026.06.13.
   - Week 09
 
