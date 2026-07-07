@@ -61,7 +61,7 @@
 ### 파이썬 인공지능
 - 2026.06.26.
   - [Week 10](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/blob/main/PYTHON-2026-03/Intermediate/Lecture/Week-10/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95%5D%20Week%2010_AI.pptx)
-- 2026.07.03.
+- 2026.07.07.
   - [Week 11](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/blob/main/PYTHON-2026-03/Intermediate/Lecture/Week-11/%5B%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EC%A4%91%EA%B8%89%EA%B3%BC%EC%A0%95%5D%20Week%2011_DP.pptx)
 - 2026.07.10.
   - Week 12
