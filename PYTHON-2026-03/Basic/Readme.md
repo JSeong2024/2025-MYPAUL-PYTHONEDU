@@ -16,7 +16,7 @@
 📝 [**공지사항** (클릭시 이동)](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/tree/main/PYTHON-2026-03/Basic/Notice)
 
 📊 **설문조사** 
- - 수업 후 설문조사: x
+ - [설문조사](https://forms.gle/muHGFgYYFqrjaEBz6)
 
 🎁 [**과제**](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/tree/main/PYTHON-2026-03/Basic/Assignment)
  - x
