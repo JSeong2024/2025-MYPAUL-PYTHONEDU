@@ -58,7 +58,7 @@
 - 2026.06.27.
   - Week 10
 - 2026.07.08.
-  - Week 11
+  - [Week 11](https://github.com/JSeong2024/MYPAUL-PYTHONEDU/tree/main/PYTHON-2026-03/Basic/Lecture/Week-11)
 - 2026.07.11.
   - Week 12
 
